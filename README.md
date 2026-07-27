@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/myphoto.jpg" width="150" style="border-radius:50%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammed Arsalan Khan</h1>
 <h3 align="center">Junior Data Scientist | ML • Python • SQL</h3>
 
