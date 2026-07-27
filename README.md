@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/myphoto.jpg" width="150" style="border-radius:50%">
+  <img src="myphoto.jpg" width="150" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Arsalan Khan</h1>
